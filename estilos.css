@@ -1,0 +1,70 @@
+.cabecera-sitio {
+    color: blue;
+    background-color: yellow;
+    border: 1px solid black;
+  }
+  
+  p {
+    color: red;
+  }
+
+  #miprimerparrafo {
+    font-size: 16px
+  }
+  
+.enlace{
+    display: inline-block;
+    background: salmon;
+    color:#fff;
+    padding: 10px 30px;
+    text-decoration: none;
+}
+.enlace:hover{
+    background: rosybrown;
+}
+nav{
+    background-image:url(imagenes/icono_cabencera/bienvenido.png);
+    padding: 0px 0px 0px 600px;
+    display: flex;
+    justify-content: space-around; 
+    text-align: center;
+}
+.nav-boton{
+    background: salmon;
+    color: #fff;
+    padding: 10px 0;
+    border: 2px solid #fff;
+    display: none;
+}
+
+#slider1 {
+    padding: 30px 200px 30px;
+}
+
+#noticias1 {
+    background: salmon;
+    width: 1200px;
+    height: 400px;
+}
+#articulo1 {
+    background: rgb(247, 232, 231);
+    width: 50px;
+    height: 60px;
+    position:relative;
+    top:10px;
+}
+#articulo2 {
+    background: rgb(247, 232, 231);
+    width: 50px;
+    height: 60px;
+    position:relative;
+    top:10px;
+}
+#articulo3 {
+    background: rgb(247, 232, 231);
+    width: 50px;
+    height: 60px;
+    position:relative;
+    top:10px;
+    
+}
